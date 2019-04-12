@@ -1,5 +1,5 @@
 Befor you try this model, it is required to download vgg16_weights and features into info"image caption\attention模型\master".
 
-features.pkl :
-model_0.h5:
-vgg16_weights_tf_dim_ordering_tf_kernels:
+features.pkl :https://drive.google.com/file/d/12CxnhPo-dFhaxssvUo0WD25zgX4HF09D/view?usp=sharing
+model_0.h5:https://drive.google.com/file/d/1h1OiwVijz3x9HDWFaTk-T9XMXXc7JJ31/view?usp=sharing
+vgg16_weights_tf_dim_ordering_tf_kernels:https://drive.google.com/file/d/1YeeKxSnw-Jr8YUyacUa9RZhF5lMRzevF/view?usp=sharing
