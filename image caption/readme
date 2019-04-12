@@ -1,3 +1,5 @@
-Befor you try this model, it is required to download vgg16_weights and features.
+Befor you try this model, it is required to download vgg16_weights and features into info"image caption\attention模型\master".
 
-urls:
+features.pkl :
+model_0.h5:
+vgg16_weights_tf_dim_ordering_tf_kernels:
